@@ -5,15 +5,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "work1": "node index 1 ФНСУСФХЯЫЗФХЯ",
-    "work2": "node index 2 ТАМБОВ 'ЦО РДЬФЯИЦПРРЫ ВРПРЭ Ъ НС ЕЬ ЖХОЮОЦМАВЗЦ ТЗДЕХ ИОФА'",
-    "work3": "node index 3 ТАМБОВ ЕТЛРОВТЮА_НЁТДРЕЭЙРФ_АТК",
-    "work4": "node index 4 ЭВОРОН ДЗЧЦ_РУ6ЁЗЁЕУНРЮ"
+    
   },
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "console-line": "^1.0.0",
-    "readline": "^1.3.0"
-  }
+  "license": "ISC"
 }
